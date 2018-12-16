@@ -1,0 +1,10 @@
+C:\Users\Rollhoop\Desktop\C#High\Project_1\Project_1\bin\Debug\Project_1.exe.config
+C:\Users\Rollhoop\Desktop\C#High\Project_1\Project_1\bin\Debug\Project_1.exe
+C:\Users\Rollhoop\Desktop\C#High\Project_1\Project_1\bin\Debug\Project_1.pdb
+C:\Users\Rollhoop\Desktop\C#High\Project_1\Project_1\obj\Debug\Project_1.csprojAssemblyReference.cache
+C:\Users\Rollhoop\Desktop\C#High\Project_1\Project_1\obj\Debug\Project_1.Form1.resources
+C:\Users\Rollhoop\Desktop\C#High\Project_1\Project_1\obj\Debug\Project_1.Properties.Resources.resources
+C:\Users\Rollhoop\Desktop\C#High\Project_1\Project_1\obj\Debug\Project_1.csproj.GenerateResource.cache
+C:\Users\Rollhoop\Desktop\C#High\Project_1\Project_1\obj\Debug\Project_1.csproj.CoreCompileInputs.cache
+C:\Users\Rollhoop\Desktop\C#High\Project_1\Project_1\obj\Debug\Project_1.exe
+C:\Users\Rollhoop\Desktop\C#High\Project_1\Project_1\obj\Debug\Project_1.pdb
